@@ -1,0 +1,39 @@
+UTF-8 = ?
+
+html é uma linguagem focada em conteudo, que podem ser textos, imagens, videos, tabelas e etc.
+
+css é focado no design, que são cores, sombras, tamanhos, posicionamento e etc.
+
+javascript é focado na interação, que são menus, animações, popups, validações(usuarios) e etc.
+
+
+--------------------------------------------------------------------------------------------------------
+head é o nome da página
+body é onde é escrito o conteudo da pagina
+! é usado para criar a base da página
+h1 é usado para fazer um titulo
+p é usado para escrever um paragrafo
+hr é usado para criar uma linha na horizontal
+br é usado para quebrar a linha
+<!-- comentario
+&#xcodigo; foi utilizado para criar um emoji, mas é um comando para códigos hexadecimal
+
+jpg é uma imagem mais compactada e n tem transparencia
+png é uma imagem mais 'bonita' e pode ser transparente
+img é o código usado para colocar imagens no site
+link:favicon para colocar o icone do site
+control + shift + p é usado para ajudar a colocar os comandos
+
+exercicio 8 e 8b está com informações sobre formatação dos textos
+
+exercicio 10 está com informações sobre como colocar links
+https://www.iana.org/assignments/media-types/media-types.xhtml, site para saber as medias do application
+Também está no github alguns comandos para alguns tipos de arquivo
+
+exercicio 11 está com informações sobre imagens
+exercicio 12 está com informações sobre vídeos
+exercicio 14 está com informações sobre css
+exercicio 15 está com informações sobre css mais aprofundadas
+
+No mesmo arquivo eu posso utilizar os 3 tipos de css
+exercicio 16 está com informações sobre cores e como aplica-las
