@@ -3,27 +3,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700&display=swap');
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 header{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 55px;
-    margin: -8px;
+    padding: 50px;
 }
 
 header h1{
     font-family: 'Passion One', cursive;
     font-size: 10vw;
     font-weight: bold;
-    margin: 0px;
-    padding: 0px;
+    font-variant: small-caps;
 }
 
 p.verdana{
     font-family: Verdana, sans-serif;
     font-size: 16px;
-    margin: 0px;
-    padding: 0px;
 }
 
 a{
@@ -36,64 +37,48 @@ a:hover{
     text-decoration: underline;
 }
 
-main p{
-    font-size: 46px;
-    font-family: 'Sriracha', cursive;
-    line-height: 60px;
-    margin: 0px;
-    padding: 10px;
-}
-
 section{
-    margin: 50px 0px 60px 15px;
+    font-size: 3.5vw;
+    font-family: 'Sriracha', cursive;
+    line-height: 2em;
+    padding-top: 10vh;
+    padding-bottom: 10Vh;
+    padding-left: 30px;
 }
 
 #imagem{
     background-color: black;
+    color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.699);
     background-image: url('imagens/background001.jpg');
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: right center;
     background-attachment: fixed;
-    color: white;
-    height: 700px;
-    margin: -8px;
-    background-size: 100% 100%;
-    position: relative;
-    height: 96vh;
+    background-size: cover;
 }
 
 #imagem2{
     background-color: black;
+    color: white;
+    box-shadow: inset 3px 3px 10px 0px rgba(0, 0, 0, 0.699);
     background-image: url('imagens/background002.jpg');
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: right center;
     background-attachment: fixed;
-    color: white;
-    height: 700px;
-    margin: -8px;
-    background-size: 100% 100%;
-    position: relative;
-    height: 96vh;
+    background-size: cover;  
 }
 
 article{
     background-color: rgba(0, 0, 0, 0.466);
-    background-size: 100% 100%;
-    position: absolute;
-    left: 20%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    max-width: 570px;
-    min-width: 350px;
-    margin: 0px 28px;
-    
+    text-shadow: 1.5px 1.5px 0px black;
+    display: inline-block;
+    padding: 10px;
 }
 
 footer{
     background-color: black;
     color: white;
-    margin: 0px -8px -8px -8px;
-    padding: 8px;
+    padding: 10px;
     text-align: center;
-    font-size: 16px;
+    margin-top: 2em;
 }
