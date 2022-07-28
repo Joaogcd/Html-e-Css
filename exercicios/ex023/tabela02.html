@@ -13,11 +13,18 @@
             border-collapse: collapse;
             margin: auto;
             width: 500px;
+            position: relative;
         }
 
         thead, tfoot{
             background-color: darkslategray;
             color: white;
+        }
+
+        thead > tr > th{
+            position: sticky;
+            top: -1px;
+            background-color: darkslategray;
         }
 
         caption{
