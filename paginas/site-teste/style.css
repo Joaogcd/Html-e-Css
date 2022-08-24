@@ -48,3 +48,8 @@ article{
     margin-top: 2vh;
     padding: 10px;
 }
+
+#espaco{
+    display: inline-block;
+    width: 50px;
+}
