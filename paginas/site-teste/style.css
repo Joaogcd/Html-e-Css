@@ -15,6 +15,7 @@ header{
     background-color: #2196F5;
     padding: 15px 10px;
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.418);
+    font-size: 2vw;
     color: white
 }
 
@@ -52,4 +53,5 @@ article{
 #espaco{
     display: inline-block;
     width: 50px;
+    height: 0px;
 }
