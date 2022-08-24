@@ -25,8 +25,7 @@ main{
     height: 5000px;
 }
 
-#perfil{
-    height: 60vh;
+#perfil{  
     box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.418);
     padding: 10px;
     text-align: center;   
